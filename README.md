@@ -5,7 +5,7 @@ Here’s an enhanced and more structured version of your **README.md** file:
 # Collaborative Recommendation System
 
 This project implements a **Collaborative Movie Recommendation System** using **K-Nearest Neighbors (KNN)** and collaborative filtering techniques. The system recommends movies based on user ratings and a given input movie title.
-
+My repository (Collaborative-Recommendation) contains my solutions to the **AI Engineers Notebooks**, originally created (https://github.com/larawehbe/TheAIEngineers-Notebooks). These notebooks focus on various machine learning, data preprocessing, and clustering techniques. I have worked through the notebooks independently to enhance my understanding and skills in these areas.
 ---
 
 ## Table of Contents
